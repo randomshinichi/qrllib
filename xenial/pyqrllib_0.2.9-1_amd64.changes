@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 24 Nov 2017 12:41:57 +0000
+Source: pyqrllib
+Binary: python3-pyqrllib
+Architecture: source amd64
+Version: 0.2.9-1
+Distribution: unstable
+Urgency: low
+Maintainer: The Quantum Resistant Ledger <info@theQRL.org>
+Changed-By: The Quantum Resistant Ledger <info@theQRL.org>
+Description:
+ python3-pyqrllib - QRL core library
+Changes:
+ pyqrllib (0.2.9-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ 0cc322d50aebaa2f688f5fb548384ae4768f1650 1403 pyqrllib_0.2.9-1.dsc
+ 038fcd58ea9a21a7ab5312370c1089ba8692ac65 68706 pyqrllib_0.2.9.orig.tar.gz
+ 18a48d4f4365506256038ed78e3997e3584d79c4 1340 pyqrllib_0.2.9-1.debian.tar.xz
+ 0a19d068fcd501377143abf2ba6efa10319f2b54 272770 python3-pyqrllib_0.2.9-1_amd64.deb
+Checksums-Sha256:
+ d5dfe88dc7c3bba7c6c98484b7d9493d759ff2e4ccd788a432928cc84d0afc30 1403 pyqrllib_0.2.9-1.dsc
+ 7fd8e04b340264a812a74ead307e92d0be0a6157a2bd79abbbac0884c82fc096 68706 pyqrllib_0.2.9.orig.tar.gz
+ 2ee4cd334922539f8c5fa1bdc3d8418985f75a99356e51e1b48754eb162ad7b9 1340 pyqrllib_0.2.9-1.debian.tar.xz
+ 9953db7acfc27e262f6534d91a596e69faedb121a23a4ea64cf81fb13bf05b21 272770 python3-pyqrllib_0.2.9-1_amd64.deb
+Files:
+ d95bbfe409cefb76c78101156b561965 1403 python optional pyqrllib_0.2.9-1.dsc
+ 36c05d78a1a3bdb2150d333e208e85b8 68706 python optional pyqrllib_0.2.9.orig.tar.gz
+ f3b521f40f1b3064d717e566f2205fab 1340 python optional pyqrllib_0.2.9-1.debian.tar.xz
+ 708728189c7202a12469c2dd3f9dbe4b 272770 python optional python3-pyqrllib_0.2.9-1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJaGBPIAAoJEO1p9Q6EuKMHlA8H/34r3rv77mJo9LBFqyAQs2dY
+Hxv5KyAI4zY1cHaiBgJsnfFgmZPNt1YmYupt3FFAXL2X6cCOr82/+VIIFZJdTGEV
+Ddin3esEr/UdF6QAEXavXVfR9W/M5jumdxE+Na5peSYVPvlSHAk70WD+rN4DgJOe
+mMMloffs/dtFLI3DkQgMp1GhqyXOi7zAYvsFNSdzSCLnds5ppsDR7aVaUuVlF4IN
+8aIhY7XQlG8GOn6xbnamLs2OBUSGKD2r6CGrOzLs4QyGoOUFPS7ggIPrCE/neNDc
+xYFD5dynSko6ztfSUz+aBMPlGaUt8gMLl7vatYMKBc9nwwrMo4JWvxlrO8EqVUA=
+=ueGb
+-----END PGP SIGNATURE-----
