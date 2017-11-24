@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 24 Nov 2017 14:25:08 +0000
+Source: pyqrllib
+Binary: python3-pyqrllib
+Architecture: source amd64
+Version: 0.2.9-1
+Distribution: unstable
+Urgency: low
+Maintainer: The Quantum Resistant Ledger <info@theQRL.org>
+Changed-By: The Quantum Resistant Ledger <info@theQRL.org>
+Description:
+ python3-pyqrllib - QRL core library
+Changes:
+ pyqrllib (0.2.9-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ 2a08c8565d9be5cdd85df30243366f254c34320f 1403 pyqrllib_0.2.9-1.dsc
+ 038fcd58ea9a21a7ab5312370c1089ba8692ac65 68706 pyqrllib_0.2.9.orig.tar.gz
+ 23a3c20fdbc01a4166125a7e4e397572c9fd60c1 1340 pyqrllib_0.2.9-1.debian.tar.xz
+ 3f81c8f24f2ad1c9c0a137e11e092bd1bb0103f6 273328 python3-pyqrllib_0.2.9-1_amd64.deb
+Checksums-Sha256:
+ 75c99f167af5b2fe1472911d5ad6283aa7ae2c1596defd443b58e7c46c9ea8ae 1403 pyqrllib_0.2.9-1.dsc
+ 7fd8e04b340264a812a74ead307e92d0be0a6157a2bd79abbbac0884c82fc096 68706 pyqrllib_0.2.9.orig.tar.gz
+ fa1c1b0c8c90a839e076d3c180345b8d0c86b201016a87d32b25c84df061d45a 1340 pyqrllib_0.2.9-1.debian.tar.xz
+ 715f8666b3b9f8254366d53ae09426cfed4ef183e866033dad8fe43a8ef6326e 273328 python3-pyqrllib_0.2.9-1_amd64.deb
+Files:
+ 12564f16afb0586fa54e6dab5ce5786e 1403 python optional pyqrllib_0.2.9-1.dsc
+ 36c05d78a1a3bdb2150d333e208e85b8 68706 python optional pyqrllib_0.2.9.orig.tar.gz
+ 684fa14c11b3a2164f982c066ebb1c61 1340 python optional pyqrllib_0.2.9-1.debian.tar.xz
+ 32db4ede7e0bc97e8ba6ad23dd91f38a 273328 python optional python3-pyqrllib_0.2.9-1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJaGCv1AAoJEO1p9Q6EuKMHdZoH/0gsfnvZk5hiUUGBKR919HbE
+vldUYht9S8pQm9K0VAfVdS7eMCnSlJ3LRULpg1sbsYfLwRTSGmq27JNv7dC5Kofu
+LuHYM6+OpQ4VLpXymdPOeyzTBGxm60mnL70oejDzMdCgBQ5Z4j1Yr1YrbKvQaEvl
+J0DTfaAKf4MGOpS13Hh8xrsYf1guClIcR/Sn0WEj3S2RaQpckZ4g/kqmxWuXmT9E
+ORQmxKnvwc2wqK3VjAq1D9sxgD8Fj/ng1EBmrHq+mMjOY6CQUyv8gJl20DksXnul
+3CHW4BWYikuHOYKL28Seu/HQoEgEfrrSw9JNYJTcqP3qlejN93dBuDySzWgp8zE=
+=UqjG
+-----END PGP SIGNATURE-----

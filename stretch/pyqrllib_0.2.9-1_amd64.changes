@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 24 Nov 2017 14:25:02 +0000
+Source: pyqrllib
+Binary: python3-pyqrllib
+Architecture: source amd64
+Version: 0.2.9-1
+Distribution: unstable
+Urgency: low
+Maintainer: The Quantum Resistant Ledger <info@theQRL.org>
+Changed-By: The Quantum Resistant Ledger <info@theQRL.org>
+Description:
+ python3-pyqrllib - QRL core library
+Changes:
+ pyqrllib (0.2.9-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ 2b5a5ee24889e11e8865f71764a03c8da80496ad 1403 pyqrllib_0.2.9-1.dsc
+ 038fcd58ea9a21a7ab5312370c1089ba8692ac65 68706 pyqrllib_0.2.9.orig.tar.gz
+ 33c461ba3b234d8c4fa4e1cc197bff97102e6f96 1340 pyqrllib_0.2.9-1.debian.tar.xz
+ 10261bd12aaace94fe11051e2e59897ee87816f0 271572 python3-pyqrllib_0.2.9-1_amd64.deb
+Checksums-Sha256:
+ ddc0bcd70a3ab34fef0c508e5e20497956494c24b5eb2c58e3a55eda6ff436ee 1403 pyqrllib_0.2.9-1.dsc
+ 7fd8e04b340264a812a74ead307e92d0be0a6157a2bd79abbbac0884c82fc096 68706 pyqrllib_0.2.9.orig.tar.gz
+ 93daa06fe6a586aa43f240aabc6ee48d2ae8b68b8bda6db495f70025f01dffe7 1340 pyqrllib_0.2.9-1.debian.tar.xz
+ 8df726af2f8711a7d5c1880ac721eedda2dc0c334ee95baca35796098a9faa65 271572 python3-pyqrllib_0.2.9-1_amd64.deb
+Files:
+ d13a20720af2d4a5ff4432670f515c79 1403 python optional pyqrllib_0.2.9-1.dsc
+ 36c05d78a1a3bdb2150d333e208e85b8 68706 python optional pyqrllib_0.2.9.orig.tar.gz
+ e2625544f662e1c42716af245533cdd3 1340 python optional pyqrllib_0.2.9-1.debian.tar.xz
+ a69be0c910fe85a63b783789ae0e33fc 271572 python optional python3-pyqrllib_0.2.9-1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJaGCvuAAoJEO1p9Q6EuKMHM/AH/AmGfIr4VO47bPKMbuOEvrUX
+0CUGUYI+S2nV/J/SQKCncqH6UtCviloiwULx1qRXas7bFG+85Vs1IN1wwPigE86v
+4r9Os1uj757s/twceg0ypAUPIa6nZ1MU/xoFnUY4XZWvmBe7BaRhvdEQWLYKnMtr
+BMI0YHKd5zc7BawlnYre8saDNa5VFTabb1NnYGIzDRqxrAJon8ELtgotZZJtNjBW
+Zgx6vyX0y8BpmwpP2/zRu2PEYaQinvwQIICdvUfgQadS4P7ZBPYqgX/+HmOmJ2rA
+RfDh+U6w5mgozFJDVhJulNFh5JO+bJewD1/Dm0nFre79J5/gJ26NMTLf2fENltE=
+=kcJc
+-----END PGP SIGNATURE-----

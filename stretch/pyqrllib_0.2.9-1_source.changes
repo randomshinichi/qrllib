@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 24 Nov 2017 14:25:02 +0000
+Source: pyqrllib
+Binary: python3-pyqrllib
+Architecture: source
+Version: 0.2.9-1
+Distribution: unstable
+Urgency: low
+Maintainer: The Quantum Resistant Ledger <info@theQRL.org>
+Changed-By: The Quantum Resistant Ledger <info@theQRL.org>
+Description:
+ python3-pyqrllib - QRL core library
+Changes:
+ pyqrllib (0.2.9-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ 621045ece2d838e75e74019a04f3d762c58bbbed 882 pyqrllib_0.2.9-1.dsc
+ 038fcd58ea9a21a7ab5312370c1089ba8692ac65 68706 pyqrllib_0.2.9.orig.tar.gz
+ 33c461ba3b234d8c4fa4e1cc197bff97102e6f96 1340 pyqrllib_0.2.9-1.debian.tar.xz
+Checksums-Sha256:
+ 804b97717fc5cdf15dbf08c7734e445be93ccedcf68d7d63406f70c799f50db3 882 pyqrllib_0.2.9-1.dsc
+ 7fd8e04b340264a812a74ead307e92d0be0a6157a2bd79abbbac0884c82fc096 68706 pyqrllib_0.2.9.orig.tar.gz
+ 93daa06fe6a586aa43f240aabc6ee48d2ae8b68b8bda6db495f70025f01dffe7 1340 pyqrllib_0.2.9-1.debian.tar.xz
+Files:
+ 15f14a1a9d65d1a63c6b15792585fdaf 882 python optional pyqrllib_0.2.9-1.dsc
+ 36c05d78a1a3bdb2150d333e208e85b8 68706 python optional pyqrllib_0.2.9.orig.tar.gz
+ e2625544f662e1c42716af245533cdd3 1340 python optional pyqrllib_0.2.9-1.debian.tar.xz
